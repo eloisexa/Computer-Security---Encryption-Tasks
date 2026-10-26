@@ -1,1 +1,2 @@
 # Computer-Security---Encryption-Tasks
+A collection of Python programs that I am currently completing, exploring cryptography and computer security through practical problem-solving tasks. The repository covers a range of topics, including Caesar cipher decryption, AES encryption and ciphertext manipulation, password cracking using SHA-256 hashing, one-time pad encryption, and ElGamal public-key cryptography. The tasks focus on understanding cryptographic techniques, analysing their weaknesses, and applying programming to solve security-related problems.
